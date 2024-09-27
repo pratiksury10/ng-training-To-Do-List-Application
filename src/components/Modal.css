@@ -1,0 +1,228 @@
+*{
+    margin:0;
+    
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: end; 
+    background-color: transparent;
+}
+
+
+
+.cont {
+    text-align: left;
+    display : flex;
+    justify-content: flex-start;
+    align-items: flex-start; 
+    right:1200px;
+    position:absolute;
+}
+
+.class{
+    position : relative;
+}
+
+/* .form {
+    border:100px;
+    background-color: aqua;
+    padding:50px 50px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}  */
+
+/* .user {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px; 
+    
+} */
+
+ .select-1 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 230px;
+    height: 25px;
+    width: 380px
+}
+
+.user-2 {
+    margin-left: 230px;
+}
+
+
+
+.section-2 {
+    left: 50px;
+    text-align: end;
+    margin-right: 60px;
+    margin-top: -50px;
+    margin-left: 50px;
+    padding-right: 50px;
+}
+
+.status {
+    margin-right: 400px;
+}
+
+.status-2 {
+    /* margin-right: 350px; */
+    height: 100;
+    width:450px;
+}
+
+
+.date {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px; 
+    padding: 20px 20px;
+    border: 10px;
+    /* background-color: rgb(219, 255, 127); */
+    /* border-color:rgb(142, 19, 19);
+    height: 100px;
+    width: 550px; */
+    flex-direction: column;
+    text-align:center;
+    margin-right: 700px;
+}
+
+.input-23{
+    margin-bottom: 60px;
+    margin-left: 200px;
+    margin-top: -15px;
+    width:380px;
+}
+
+ 
+/* .duedate {
+    border: 1px;
+    border-color: black;
+    background-color: blue;
+    height: min-content;
+    width:min-content;
+} */
+
+
+
+.text {
+    
+    width: 910px;
+    margin-top: 30px;
+     /* padding: 40px 40px ; */
+    height:50px;
+    /* right:60px; */
+    
+}
+
+.labe-2{
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+    /* margin-right: -250px; */
+    /* height: 20px; */
+    margin-top: -5px;
+    text-align: center;
+    /* background-color: aqua; */
+    position: absolute;
+    
+}
+
+.label {
+    margin: 10px;
+}
+
+
+
+.savebutton {
+    text-align: end;
+    margin: 10px;
+    display: flex;
+    justify-content: end;
+    margin-top: 15px;
+    margin-right: 45px;
+}
+
+.button-1 {
+    gap: 10px;
+    margin-right: 20px;
+}
+
+.priority{
+    /* right: 150px; */
+    text-align:end;
+    margin-right: 100px;
+    margin-top: -160px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    /* padding-right: 140px; */
+}
+
+.input-12{
+    /* right:50px; */
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: -250px;
+    height: 20px;
+}
+
+/* .label{
+    margin-bottom:20px;
+    display: flex;
+    flex-direction: column;
+} */
+
+.desc {
+    position: relative;
+    display: flex;
+    /* justify-content: end; */
+    /* flex-direction: row; */
+    margin-top: 50px;
+    margin-left:230px;
+    /* width:1500px; */
+}
+
+.desc label {
+    margin-right: 145px ;
+   
+}
+
+/* .priority{
+    margin-right: 200px; 
+    
+} */
+
+.input-45{
+    height: 100;
+    width:450px;
+    margin-inline-start: 50px;
+    margin-top: -15px;
+    /* margin-bottom: -50px; */
+    /* background-color: aqua; */
+}
+
+.savebutton {
+    margin-top: 50px;
+    margin-right: 80px;
+    font-size:40px;
+}
+
+.table table-striped{
+    background-color: blue;
+}
+
+.taskitem{
+    background-color: chartreuse;
+}
+
+.taskmodal {
+    background-color: coral;
+}
